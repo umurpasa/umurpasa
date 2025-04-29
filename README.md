@@ -45,12 +45,9 @@
 - Turning side projects into real products  
 - Blending nostalgic UI with modern tools  
 - Learning full-stack development through practice  
-- Creating fun, pixel-flavored tools and games  
 
 ---
 
-> "Bitirme zor, ama bırakmak daha zor."  
-> — Me
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=100&section=footer"/>
