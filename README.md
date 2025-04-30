@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160" alt="coder at terminal gif" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFhYTdtamZjazRpbWdqcjNxOHB2cnJsaXhsbzBjdGJqeDJvajI2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="320" alt="coder at terminal gif" />
 </p>
 
 ---
