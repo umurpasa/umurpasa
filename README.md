@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFhYTdtamZjazRpbWdqcjNxOHB2cnJsaXhsbzBjdGJqeDJvajI2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="320" alt="coder at terminal gif" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160" alt="coder at terminal gif" />
 </p>
 
 ---
@@ -29,16 +29,16 @@
 
 ### 🚀 Featured Projects
 
-🔹 **[Movie Blog Generator](https://movie-blog-post-generator-backend.onrender.com/#homePage)**  
-> 🎬 Search a movie → Get an AI-generated blog post.
-
-🔹 **Heybie**  
+🔹 **[Heybie](https://www.heybie.com/)**  
 > 💌 A dating app where you meet first and chat later.  
 > 📱 Live on App Store. Google Play pending.
 
 🔹 **[My Retro Portfolio Website](https://umurpasa.github.io/mrpasa/)**  
 > 🕹️ A pixel-perfect site, built from scratch with dark mode, loader animation and typing effect.
 
+🔹 **[Movie Blog Generator](https://movie-blog-post-generator-backend.onrender.com/#homePage)**  
+> 🎬 Search a movie → Get an AI-generated blog post.
+> 
 ---
 
 ### 🧭 What I’m up to:
